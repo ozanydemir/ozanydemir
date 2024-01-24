@@ -74,11 +74,12 @@
     <a href="#"><img alt="Microsoft Visual Studio" src="https://img.shields.io/badge/Microsoft%20Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
 </p>
 
+<hr width="65%" >
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
-<hr width="65%" >
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
