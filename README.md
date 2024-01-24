@@ -56,9 +56,9 @@
    &emsp;
     <a href="#"><img alt="MQTT" src="https://img.shields.io/badge/MQTT-%23000000.svg?style=plastic&logo=eclipse-mosquitto&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="IoT" src="https://img.shields.io/badge/IoT-%2300d1b2.svg?style=plastic&logo=internet-of-things&logoColor=white"></a>
+    <a href="#"><img alt="IoT" src="https://img.shields.io/badge/IoT-3C3C3D.svg?style=plastic&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="SignalR" src="https://img.shields.io/badge/SignalR-%23512BD4.svg?style=plastic&logo=signalr&logoColor=white"></a>
+    <a href="#"><img alt="SignalR" src="https://img.shields.io/badge/SignalR-512BD4.svg?style=plastic&logoColor=white"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
