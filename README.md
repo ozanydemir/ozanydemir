@@ -1,5 +1,5 @@
 <!--Banner-->
-<!--![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)-->
+![Banner](https://github.com/ozanydemir/ozanydemir/blob/main/ozanydemirBanner.png)
 
 <!--Night Owl image-->
 <div>
@@ -7,25 +7,26 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Ozan! 
+*Developer / Programmer*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Junior Developer with a huge love for C#, JS, MSSQL and IoT Systems. </p>
 
-- ✨ Student of life :)
+- 🔍 Curious Junior Developer with a passion for learning and building things from scratch.
+- 👨‍💻 Currently mastering HTML, CSS, and JavaScript to create engaging user experiences.
+- 🌟 Skilled in C# and JavaScript, with a growing interest in backend development.
+- 📈 Currently mastering using version control with Git and GitHub for efficient collaboration.
+- 🔧 Keen on understanding the intricacies of database management and design.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 🌐 You can see some of my personal projects on my [GitHub](https://github.com/ozanydemir).
+- 📝 I enjoy writing code that is clean, well-documented, and easy to maintain.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=ozanydemir&label=Profile%20views&color=blue&style=for-the-badge&logo=star" style="padding-right:20px;" />
 </p>
 
 ---
