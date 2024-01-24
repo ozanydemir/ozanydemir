@@ -52,11 +52,11 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
     &emsp;
-    <a href="#"><img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-%23000.svg?style=plastic&logo=microsoft-sql-server&logoColor=white" /></a>
-   &emsp;
-    <a href="#"><img alt="MQTT" src="https://img.shields.io/badge/MQTT-%23000000.svg?style=plastic&logo=eclipse-mosquitto&logoColor=white"></a>
+    <a href="#"><img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-%23000.svg?style=plastic&logo=microsoft-sql-server&logoColor=white" /></a>   
  &emsp;
     <a href="#"><img alt="IoT" src="https://img.shields.io/badge/IoT-%2300d1b2.svg?style=plastic&logo=internet-of-things&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="MQTT" src="https://img.shields.io/badge/MQTT-%23000000.svg?style=plastic&logo=eclipse-mosquitto&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="SignalR" src="https://img.shields.io/badge/SignalR-%23512BD4.svg?style=plastic&logo=signalr&logoColor=white"></a>
 </p>
