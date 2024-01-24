@@ -32,7 +32,7 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=cs,js,html,css&perline=10"  />
 </p>
